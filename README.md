@@ -5,12 +5,16 @@
 <p data-importer="text" align="left">My name is Assil and I'm a third-year Computer Science Engineering student at ENSI (University of Manouba), from Tunisia 🇹🇳.</p>
 
 ###
-
 <h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since my first year at ENSI<br>📚 I'm currently learning agentic RAG, explainable ML and Big Data (Hadoop, MapReduce, NoSQL)<br>🎯 Goals: land a research-oriented AI internship in Europe or Canada, then go for a Master's/PhD abroad<br>🎲 Fun fact: I once rebuilt a whole VR gesture-recognition pipeline around a Meta Quest 3 after the HTC Vive setup hit a wall of GPU and driver problems</p>
+<p data-importer="text" align="left">
+I've been writing code (and creating bugs) since my first year at ENSI.<br>
+Right now I'm learning agentic RAG, explainable ML and Big Data tools like Hadoop, MapReduce and NoSQL.<br>
+My goal is to land a research-oriented AI internship in Europe or Canada, then pursue a Master's or PhD abroad.<br>
+Fun fact: I once rebuilt an entire VR gesture-recognition pipeline around a Meta Quest 3 after the HTC Vive setup ran into GPU and driver problems.
+</p>
 
 ###
 
@@ -19,14 +23,14 @@
 ###
 
 <p data-importer="text" align="left">
-🔬 <b>AQ-NBEATS++</b>: probabilistic electricity demand forecasting with Conformalized Quantile Regression (18.5% CRPS improvement, 95.96% empirical coverage)<br>
-🤖 <b><a href="https://github.com/assyl-bk/netops-agent">NetOps Agent</a></b>: agentic RAG assistant with tool use for network incident troubleshooting (in progress)<br>
-🌐 <b>Network traffic classification</b>: research internship at ÉTS Montréal, Random Forest optimization across UNIBS, IoT/UNSW and MIRAGE-2019<br>
-🥽 <b>VR gesture recognition</b>: IAESTE research exchange at MIT Manipal (MIT-ICE lab), 1D-CNN vs SVM on Meta Quest 3 hand tracking, IEEE-style paper<br>
-🩺 <b>Explainable classification app</b>: FastAPI + Streamlit on Diabetes 130-US Hospitals (30-day readmission)<br>
-🧠 <b>MindMate</b>: NLP mental health platform, 3rd place at IEEE EMBS<br>
-🎵 <b>Deep Emotion</b>: music recommender with ResNet18 + Spotify API<br>
-🕵️ <b>Steganography detection</b>: CNN + EfficientNet-B2 (88.48% accuracy)
+<b>AQ-NBEATS++</b>: probabilistic electricity demand forecasting using Conformalized Quantile Regression, with an 18.5% CRPS improvement and 95.96% empirical coverage.<br>
+<b><a href="https://github.com/assyl-bk/netops-agent">NetOps Agent</a></b>: an agentic RAG assistant with tool use for troubleshooting network incidents (in progress).<br>
+<b>Network traffic classification</b>: research internship at ÉTS Montréal, optimizing Random Forest models across the UNIBS, IoT/UNSW and MIRAGE-2019 datasets.<br>
+<b>VR gesture recognition</b>: IAESTE research exchange at MIT Manipal (MIT-ICE lab), comparing a 1D-CNN and an SVM on Meta Quest 3 hand-tracking data, written up as an IEEE-style paper.<br>
+<b>Explainable classification app</b>: FastAPI and Streamlit app predicting 30-day readmission on the Diabetes 130-US Hospitals dataset.<br>
+<b>MindMate</b>: NLP-based mental health platform, 3rd place at IEEE EMBS.<br>
+<b>Deep Emotion</b>: music recommender built with ResNet18 and the Spotify API.<br>
+<b>Steganography detection</b>: CNN and EfficientNet-B2 model reaching 88.48% accuracy.
 </p>
 
 ###
