@@ -1,14 +1,14 @@
-# Hey there! 👋
+# Hey there! 
 
 I'm Assil, a third-year Computer Science Engineering student at ENSI, Tunisia 🇹🇳.
 
-### 👩‍💻 About me
+### About me
 
 I'm particularly interested in AI and machine learning, especially the research side of things. I enjoy experimenting with different models, figuring out why things work (or don't), and turning ideas into actual projects.
 
 I've had the chance to explore different areas of AI through academic projects and research internships in India and Canada. I'm currently in my final year at ENSI, and I'd love to continue exploring AI research through a Master's or PhD abroad.
 
-### 🔍 Areas I'm interested in
+### Areas I'm interested in
 
 - Machine Learning & Deep Learning
 - Generative AI, LLMs & Agentic RAG
@@ -53,9 +53,3 @@ I've had the chance to explore different areas of AI through academic projects a
 
 ###
 
-Hi there 👋
-- Current focus: building NetOps Agent, an agentic RAG system with tool use (FastAPI, LLM APIs) for network incident troubleshooting
-- Learning: retrieval-augmented generation (LangChain), explainable AI (SHAP/LIME) and large-scale data processing (Hadoop, MapReduce, NoSQL)
-- Research interests: probabilistic time-series forecasting, uncertainty quantification (conformal prediction), computer vision, and machine learning for networks
-- Seeking: end-of-studies (PFE) research and AI/ML engineering internships in Europe and Canada, with Master's/PhD opportunities to follow
-- Open to collaborate on applied ML research and reproducible experimentation
